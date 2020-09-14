@@ -1,0 +1,25 @@
+{
+  "name": "mongo_auth",
+  "version": "1.0.0",
+  "description": "node server mongo auth app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanderingDave/mongo_auth.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "mongo",
+    "auth"
+  ],
+  "author": "David Ly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WanderingDave/mongo_auth/issues"
+  },
+  "homepage": "https://github.com/WanderingDave/mongo_auth#readme"
+}
