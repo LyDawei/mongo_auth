@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
 const InitiateMongoServer = async () => {
   try {
@@ -6,7 +6,7 @@ const InitiateMongoServer = async () => {
       useNewUrlParser: true,
     });
 
-    console.log("connected to db");
+    console.log('connected to db');
   } catch (err) {
     console.error(err);
     throw err;
